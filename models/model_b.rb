@@ -1,0 +1,1 @@
+developer_paul_haddick = { "firstname" => "Paul", "lastname" => "Haddick", "height" => 69.5, "weight" => 185.0, "is_height_accurate" => true, "is_weight_accurate" => false, "brain_cells_per_year_alive_5_yr_avg" => [1, 1, 1, 1, 1], "lucky_numbers" => [13, 6, 7, 5, 29, 119] }
